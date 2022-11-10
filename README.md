@@ -1,2 +1,2 @@
 # python-complete-course
-Notes for Python from DuragSoft
+Notes for Python from DurgaSoft
